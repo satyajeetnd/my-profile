@@ -1,0 +1,80 @@
+{
+    "title": "Software Engineer",
+    "summary": "I'm passionate about Computer Software development, looking always for different and most efficient solutions to daily problems of clients. Always growing as a person and as a co worker, looking always to give my best for the company I'm working with.",
+    "studies": [
+      {
+        "institute": "Syracuse University",
+        "title": "MS in Computer Engineering",
+        "durationInYears": "2",
+        "graduationYear": 2012
+      },
+      {
+        "institute": "Savitribai Phule Pune University",
+        "title": "BE in Computer Engineering",
+        "durationInYears": "4",
+        "graduationYear": 2009
+      }
+    ],
+    "certifications": [
+      {
+        "logo": "https://d37pqi2hh7xyas.cloudfront.net/aws.png",
+        "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+        "title": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services",
+        "issueDate": "2020-09-01",
+        "expiryDate": "2022-09-01",
+        "verificationLink": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-09-13&ci=AWS00487431"
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "Cerner",
+        "logo": "https://d37pqi2hh7xyas.cloudfront.net/servicerocket.png",
+        "url": "https://www.servicerocket.com/",
+        "roles": [
+          {
+            "title": "Senior Engineering Manager",
+            "description": "ToDo - fill details",
+            "startDate": "2018-01-01",
+            "currentJob": true,
+            "location": "Bangalore, India"
+          },
+          {
+            "title": "Engineering Manager",
+            "description": "ToDo - fill details",
+            "startDate": "2018-01-01",
+            "endDate": "2018-01-01",
+            "location": "Bangalore, India"
+          },
+          {
+            "title": "Sr. Software Engineer",
+            "description": "ToDo - fill details",
+            "startDate": "2018-01-01",
+            "endDate": "2018-01-01",
+            "location": "Bangalore, India"
+          },
+          {
+            "title": "Software Engineer",
+            "description": "ToDo - fill details",
+            "startDate": "2018-01-01",
+            "endDate": "2018-01-01",
+            "location": "Kansas City, MO, USA"
+          }
+        ]
+      },
+      {
+        "companyName": "Blue Highway LLC",
+        "logo": "https://d37pqi2hh7xyas.cloudfront.net/alaya.png",
+        "url": "http://www.alaya.cl/",
+        "roles": [
+          {
+            "title": "Software Engineer",
+            "description": "ToDo - fill details",
+            "startDate": "2016-03-01",
+            "endDate": "2016-07-01",
+            "location": "Syracuse, NY, USA"
+          }
+        ]
+      }
+    ]
+  }
